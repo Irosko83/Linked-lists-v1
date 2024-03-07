@@ -1,5 +1,7 @@
-# Linked-lists-v1
-This is my begginer "library" for doubly linked lists. 
-I started programming few months ago, while also going to college, so the proggras hasn't been the best. That said last week or two I've been writing a lot more and am generaly happy how it's going. 
-I avoid ChatGPT entirely with the only exception being asking it to write comments for me on occasion or two.
-That's all from me thanks for reading.
+Hello everyone,
+
+I wanted to share my beginner's attempt at creating a doubly linked list library. I started my programming journey a few months ago while also juggling college responsibilities. Progress hasn't been perfect, but in the last week or two, I've dedicated more time to writing code, and I'm generally happy with how things are going.
+
+I've avoided using ChatGPT for the most part, with the only exception being to ask it to write comments for me on occasion.
+
+Thanks for taking the time to read this. If you have any thoughts or feedback, I'd love to hear them!
